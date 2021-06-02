@@ -1,6 +1,5 @@
 # Hey There, How you doin'?
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sergioneto12)](https://github.com/sergioneto12)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergioguilhermeneto/)](https://www.linkedin.com/in/sergioguilhermeneto/)
 
 ### This is about what I do...
