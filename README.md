@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergioguilhermeneto/)](https://www.linkedin.com/in/sergioguilhermeneto/)
 
 ### This is about what I do...
-- Javascript Developer, both front (ReactJS mainly) and back-end (NodeJS, mainly) frameworks.
+- Data Science Warrior, Python's Best friend, Machine Learning Lover, Javascript Developer, both front (ReactJS mainly) and back-end (NodeJS, mainly) frameworks.
 - Former student of a variety of areas, with knowledge of some languages, such as VBA, C#, Java, Python (I love it), HTML, CSS, SQL and others.
 - A lot of practice with NoSQL (MongoDB) databases, and a always learner of SQL< with a good base (thanks, PostgreSQL).
 - Passionate for some mathematics tools, with some taste to make numbers become things!
