@@ -9,7 +9,7 @@
 - Passionate for some mathematics tools, with some taste to make numbers become things!
 - Fast learner and lover of always getting more and more.
 
-[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergioneto12)](https://github.com/sergioneto12/github-readme-stats)
+[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioneto12)](https://github.com/sergioneto12/github-readme-stats)
 
 
 ## Do I have something to show? (Sure!)
