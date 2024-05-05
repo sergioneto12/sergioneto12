@@ -56,14 +56,16 @@ I'm a Data Scientist, working with data since 2020. I've been a all-around Data 
 Some of my works include:
 
 1. **airflow_podcast_downloader**:
-   Automatize o download dos seus podcasts favoritos com facilidade! Este projeto utiliza Apache Airflow para criar pipelines eficientes que tornam o processo de download e organização de podcasts simples e sem esforço.
+   Automate the download of your favorite podcasts with ease! This project utilizes Apache Airflow to create efficient pipelines that make the process of downloading and organizing podcasts simple and effortless.
 
 2. **virtual_assist**:
-   Converse com seu próprio assistente virtual! Este projeto oferece uma experiência interativa e inteligente, com recursos de reconhecimento de voz e processamento de linguagem natural para ajudá-lo em uma variedade de tarefas do dia a dia.
+   Talk to your very own virtual assistant! This project provides an interactive and intelligent experience, with features like voice recognition and natural language processing to assist you with a variety of everyday tasks.
 
 3. **PJI4_analise_dados_cnpj**:
-   Explore e analise dados de CNPJ de forma eficaz! Este projeto fornece insights valiosos sobre empresas brasileiras, com análises detalhadas e visualizações intuitivas que o ajudarão a tomar decisões informadas.
+   Explore and analyze CNPJ data effectively! This project offers valuable insights into Brazilian companies, with detailed analyses and intuitive visualizations that will help you make informed decisions.
 
 4. **Analise_Censo_Escolar_2020**:
+   Uncover educational trends with data analysis from the 2020 School Census! This project provides an in-depth view of the Brazilian educational landscape, with comprehensive analyses and valuable insights for educators, researchers, and policymakers.
+
    Descubra tendências educacionais com análise de dados do Censo Escolar de 2020! Este projeto oferece uma visão aprofundada do panorama educacional brasileiro, com análises abrangentes e insights valiosos para educadores, pesquisadores e formuladores de políticas.
 
