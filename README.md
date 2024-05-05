@@ -66,6 +66,3 @@ Some of my works include:
 
 4. **Analise_Censo_Escolar_2020**:
    Uncover educational trends with data analysis from the 2020 School Census! This project provides an in-depth view of the Brazilian educational landscape, with comprehensive analyses and valuable insights for educators, researchers, and policymakers.
-
-   Descubra tendências educacionais com análise de dados do Censo Escolar de 2020! Este projeto oferece uma visão aprofundada do panorama educacional brasileiro, com análises abrangentes e insights valiosos para educadores, pesquisadores e formuladores de políticas.
-
